@@ -26,3 +26,4 @@ API Rest com Spring Boot
       - POST
       - PUT
       - DELETE
+# animeApi
