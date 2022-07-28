@@ -27,3 +27,4 @@ API Rest com Spring Boot
       - PUT
       - DELETE
 # animeApi
+# animeHexagonal
